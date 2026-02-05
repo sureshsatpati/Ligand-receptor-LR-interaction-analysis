@@ -30,3 +30,12 @@ Xenium spatial transcriptomics output
 
 <img width="4800" height="4800" alt="813_scc_CCI_LR_chord_plot_all" src="https://github.com/user-attachments/assets/0c01b91c-4c78-4be9-9a39-cc72a14dcd1f" />
 
+
+<img width="9600" height="3000" alt="813_scc_CCI_LR" src="https://github.com/user-attachments/assets/db8988f6-3c8f-45b9-a650-4edc38b12c03" />
+
+
+<img width="15000" height="4800" alt="813_scc_Detailed_Cell_Annotations_clustering_gridding" src="https://github.com/user-attachments/assets/cf08748b-fc54-48b7-977d-75b09712cf5f" />
+
+<img width="15000" height="4800" alt="813_scc_Detailed_Cell_Annotations_gridding" src="https://github.com/user-attachments/assets/bff1d22e-e30d-4c2c-840e-d612f99f48c6" />
+
+
